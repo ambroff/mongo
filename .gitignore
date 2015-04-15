@@ -2,6 +2,7 @@
 /src/mongo/db/modules
 /.jsdbshell
 /.dbshell
+/.idea
 /perf.data
 /massif.out.*
 /smoke-last.json
